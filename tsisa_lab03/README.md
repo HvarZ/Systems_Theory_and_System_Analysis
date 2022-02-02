@@ -12,8 +12,7 @@
 
 Исходный код программы приведен в main.cpp и simulated_annealing.hpp. Результат работы программы представлен в pdf-файлах.
 
-Первая часть:
-https://github.com/HvarZ/tsisa_lab03/blob/master/screenshots/test1.pdf
 
-Вторая часть:
-https://github.com/HvarZ/tsisa_lab03/blob/master/screenshots/test2.pdf
+[Первая часть](results/test1.pdf)
+
+[Вторая часть](results/test2.pdf)

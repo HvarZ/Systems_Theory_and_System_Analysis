@@ -13,8 +13,8 @@
 Реализация работы программы находится в 2 файлах: main.cpp, RandomSearch.h .
 Результат работы программы приведен на скриншотах.
 
-![lab-02_Part1](https://github.com/HvarZ/tsisa_lab02/blob/main/screenshots/screen1.png)
+![lab-02_Part1](screenshots/screen1.png)
 
-![lab-02_Part2_1](https://github.com/HvarZ/tsisa_lab02/blob/main/screenshots/screen2.png)
+![lab-02_Part2_1](screenshots/screen2.png)
 
-![lab-02_Part2_2](https://github.com/HvarZ/tsisa_lab02/blob/main/screenshots/screen3.png)
+![lab-02_Part2_2](screenshots/screen3.png)
